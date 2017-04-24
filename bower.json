@@ -1,0 +1,17 @@
+{
+  "name": "mymmb",
+  "description": "manmanbuy",
+  "authors": [
+    "trefoil <liivk@outlook.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

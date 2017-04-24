@@ -1,0 +1,37 @@
+#plist > a table {
+  margin-top: 12px;
+}
+#plist > a table > tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+#plist > a table > tbody td {
+  line-height: 22px;
+}
+#plist > a table > tbody .red {
+  color: #d10311;
+  text-align: right;
+  padding-right: 15px;
+}
+#plist > .note {
+  font-size: 12px;
+  color: #888;
+  margin-top: 8px;
+  padding: 8px 10px;
+  line-height: 18px;
+  border-top: 1px solid #ccc;
+}
+#menu > ul > li > a > div > img {
+  width: 50px;
+}
+#homePic > img {
+  width: 100px;
+}
+#MoneyCtrlMainImg {
+  float: left;
+}
+#MoneyCtrlMainImg > img {
+  width: 100px;
+  height: 100%;
+}
