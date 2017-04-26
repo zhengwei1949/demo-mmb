@@ -8,7 +8,7 @@
 </template>
 <script>
 // 引入默认底部组件
-import NormFooter from './components/NormFooter.vue'
+import NormFooter from './components/common/NormFooter.vue'
 export default {
     name: 'app',
     components: {

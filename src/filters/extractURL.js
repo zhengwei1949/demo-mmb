@@ -1,5 +1,4 @@
-export const extURL = (str)=>{
-	// return "a";
+export const extractURL = (str)=>{
 	var strTmp = str;
-	return strTmp.replace(/.html/g,'');
+    return strTmp.replace(/.html/g, '');
 }

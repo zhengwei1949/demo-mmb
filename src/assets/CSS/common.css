@@ -186,7 +186,7 @@
   width: 21px;
   height: 21px;
   padding: 19px 12px 20px;
-  background-image: url('../images/icons/closefix.png');
+  background-image: url('/src/assets/images/closefix.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 21px;
@@ -198,7 +198,7 @@
   transform: translateY(-50%);
   width: 41px;
   height: 41px;
-  background-image: url('../images/icons/logo.png');
+  background-image: url('/src/assets/images/icons/logo.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 41px;
