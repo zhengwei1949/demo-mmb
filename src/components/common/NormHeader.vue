@@ -17,7 +17,7 @@
 </template>
 <style scoped lang="less">
 @whiteColor: #ffffff;
-@mainColor: #FF841D;
+@mainColor: #e4393c;
 //头部
 .mmb-header {
     height: 50px;

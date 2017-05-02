@@ -1,11 +1,11 @@
 <!-- 广告组件 -->
 <template>
     <div>
-        <!--慢慢买APP下载-->
+        <!--APP下载-->
         <div id="appDown" v-show="AppDown">
             <a href="http://m.manmanbuy.com/?o=download">
                 <a class="closeAppDown" href="javascript:;" @click.stop="closeAppDown()">X</a>
-                <span class="one">慢</span>
+                <span class="one">买</span>
                 <div class="two">App 下载</div>
             </a>
         </div>
@@ -13,7 +13,7 @@
         <section class="app-show" v-show="AppShow">
             <a class="closefix" href="javascript:;" @click="closeAppShow()"></a>
             <i class="icon"></i>
-            <p class="fixtitle">慢慢买</p>
+            <p class="fixtitle">LoliSugar</p>
             <p class="">全国比价 查历史价格</p>
             <a class="down-btn" href="#">立即打开</a>
         </section>

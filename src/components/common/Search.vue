@@ -30,7 +30,7 @@
             padding-left: 20px;
         }
         >input[type='button'] {
-            background-color: #ff841d;
+            background-color: #e4393c;
             width: 63px;
             height: 30px;
             line-height: 30px;

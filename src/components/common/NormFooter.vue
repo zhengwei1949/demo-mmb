@@ -12,9 +12,9 @@
             </div>
             <!--下方文字-->
             <div class="footer-bottom">
-                <a href="#"><span>手机APP下载</span>&nbsp;慢慢买手机版 </a><span>--掌上比价平台</span>
+                <a href="#"><span>手机APP下载</span>&nbsp;手机版 </a><span>--掌上比价平台</span>
                 <br>
-                <p>m.manmanbuy.com</p>
+                <p>demo.lolisugar.com</p>
             </div>
         </div>
     </div>

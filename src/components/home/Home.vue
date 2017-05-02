@@ -55,10 +55,10 @@
         </div>
         <!-- list部分end -->
         <div class="list-tit">
-            <a href="html/brandTitle.html">
+            <a href="/brandTitle">
                 <span>品牌排行</span>
             </a>
-            <a href="html/brandTitle.html">
+            <a href="/brandTitle">
                 <img src="/src/assets/images/more.png" alt="">
             </a>
         </div>
@@ -137,8 +137,8 @@ export default {
 
 .list-tit {
     height: 35px;
-    background-color: #ff9000;
-    background: -webkit-gradient(linear, 0 0, 0 100%, from(#ffaf47), to(#ff9000));
+    background-color: #e4393c;
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#f25e61), to(#e4393c));
     border-bottom: 1px solid #ffc881;
     font-size: 16px;
     padding-left: 10px;

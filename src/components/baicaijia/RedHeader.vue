@@ -3,7 +3,7 @@
     <div id="headerr">
         <div class="title">
             <router-link to="../index" class="fl"><img src="/src/assets/images/icon-back.png" alt=""></router-link>
-            <a href="http://m.manmanbuy.com/?o=download" class="fr"><img src="/src/assets/images/header_app.png" alt=""></a>
+            <a href="javascript:void(0)" class="fr"><img src="/src/assets/images/header_app.png" alt=""></a>
             <h2>白菜价-淘宝内部券</h2>
         </div>
     </div>

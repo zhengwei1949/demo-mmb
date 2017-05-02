@@ -4,7 +4,7 @@
         <!-- header头部开始 -->
         <header id='header' class='header'>
             <div class="logo">
-                <router-link to="/" title='慢慢买'>
+                <router-link to="/" title='LoliSugar'>
                     <img src="/src/assets/images/header_logo.png">
                 </router-link>
             </div>
@@ -20,7 +20,7 @@
 <style scoped lang="less">
 #header {
     height: 50px;
-    background-color: #ff841d;
+    background-color: #e4393c;
     border-bottom: 1px solid #e6e6e6;
     position: relative;
     vertical-align: middle;
